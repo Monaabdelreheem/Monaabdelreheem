@@ -31,9 +31,9 @@ A vibrant and personalized dashboard to track daily moods, habits, and affirmati
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mona-abdelreheem-81753836b/)
-- [GitHub](https://github.com/Monaabdelreheem)
-- 📬 Email: [monaabdelreheem.dev@gmail.com](mailto:monaabdelreheem.dev@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mona-abdelreheem-81753836b/)
+- 💻 [GitHub](https://github.com/Monaabdelreheem)
+- 📬 [Email](mailto:monaabdelreheem.dev@gmail.com)
   
 ---
 
