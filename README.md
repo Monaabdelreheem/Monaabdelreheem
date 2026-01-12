@@ -19,9 +19,11 @@ Currently enrolled in the TripleTen Software Engineering Bootcamp, I'm building 
 HTML | CSS | JavaScript | Git | GitHub | VS Code | Figma | Chrome DevTools
 
 **Front End:**
+
 Responsive design with Flexbox and Grid | DOM manipulation | React (Vite)
 
 **Back End:**
+
 Node.js | Express.js | RESTful APIs | JSON Server (local development)
 
 ---
