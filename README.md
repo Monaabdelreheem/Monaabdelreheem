@@ -29,6 +29,10 @@ A dynamic, card-based web application with add/delete preview modals, clean layo
 A clean, single page ToDo application built with modern JavaScript, HTML, and CSS. Users can add tasks, mark them as completed, set optional due dates, and remove tasks through smooth, user friendly interactions.
 
 
+### [👕 Weather Wardrobe | React App](https://github.com/Monaabdelreheem/se_project_react)
+A React based application that recommends what to wear using real time weather data from the OpenWeather API, with dynamic visual changes for day and night.
+
+
 ### [🪴 Mood Wellness Tracker](https://github.com/jcalcan/mayCodeJam)
 A vibrant and personalized dashboard to track daily moods, habits, and affirmations.
 
