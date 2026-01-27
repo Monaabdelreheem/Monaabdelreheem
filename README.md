@@ -27,16 +27,20 @@ Node.js | Express.js | RESTful APIs | JSON Server (local development)
 ---
 
 ## 🛠️ Projects
+### [👕 Weather Wardrobe | Full-Stack React & Node App](https://github.com/Monaabdelreheem/se_project_react)
+A responsive full-stack web application that helps users decide what to wear based on current weather conditions.
+
+Features include secure authentication, user-specific wardrobes, item management, likes system, and dynamic day and night UI updates powered by real-time weather data.
+
+Stack: React, React Router, Node.js, Express, JWT Authentication, OpenWeather
+
+
 ### [📷 Spots – Interactive Social Web App](https://github.com/Monaabdelreheem/se_project_spots)
 A dynamic, card-based web application with add/delete preview modals, clean layout, and form validation.
 
 
 ### [📝 Simple ToDo App](https://github.com/Monaabdelreheem/se_project_todo-app)
 A clean, single page ToDo application built with modern JavaScript, HTML, and CSS. Users can add tasks, mark them as completed, set optional due dates, and remove tasks through smooth, user friendly interactions.
-
-
-### [👕 Weather Wardrobe | React App](https://github.com/Monaabdelreheem/se_project_react)
-A React based application that recommends what to wear using real time weather data from the OpenWeather API, with dynamic visual changes for day and night.
 
 
 ### [🪴 Mood Wellness Tracker](https://github.com/jcalcan/mayCodeJam)
