@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/coding-night.gif" width="900" alt="Girl coding at night in the rain" />
+</p>
+
+
+
 # 👋 Hi, I'm Mona Abdelreheem
 
 I'm an aspiring software engineer with a focus on front-end web development. My background in education has shaped my communication, problem-solving, and empathy skills — all of which I bring into every line of code I write.
