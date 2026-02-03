@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding-night.gif" width="900" alt="Girl coding at night in the rain" />
+  <img src="assets/coding girl.gif" width="900" alt="Girl coding at night in the rain" />
 </p>
 
 
