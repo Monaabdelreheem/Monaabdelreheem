@@ -33,6 +33,14 @@ Node.js | Express.js | RESTful APIs | JSON Server (local development)
 ---
 
 ## 🛠️ Projects
+### [💙 HERE Frontend | Mood-Based Wellness App]
+Live URL: (https://monaabdelreheem.github.io/here-frontend/)
+A wellness-focused frontend app built with React and Vite that guides users through an intro flow, mood check-in, authentication, and a personalized dashboard experience.
+
+Features include animated intro branding, mood-based theming across pages, sign in/sign up flow, local weather with location, Celsius/Fahrenheit toggle, journal and daily tasks saved in local storage, and a fallback local auth flow when backend services are unavailable.
+
+Stack: React 19, Vite 8, React Router 7, CSS, Open-Meteo API, BigDataCloud reverse geocoding, GitHub Pages
+
 ### [👕 Weather Wardrobe | Full-Stack React & Node App](https://github.com/Monaabdelreheem/se_project_react)
 A responsive full-stack web application that helps users decide what to wear based on current weather conditions.
 
