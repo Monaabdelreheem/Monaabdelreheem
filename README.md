@@ -56,10 +56,6 @@ A dynamic, card-based web application with add/delete preview modals, clean layo
 ### [📝 Simple ToDo App](https://github.com/Monaabdelreheem/se_project_todo-app)
 A clean, single page ToDo application built with modern JavaScript, HTML, and CSS. Users can add tasks, mark them as completed, set optional due dates, and remove tasks through smooth, user friendly interactions.
 
-
-### [🪴 Mood Wellness Tracker](https://github.com/jcalcan/mayCodeJam)
-A vibrant and personalized dashboard to track daily moods, habits, and affirmations.
-
 ---
 
 ## 📫 Let's Connect
