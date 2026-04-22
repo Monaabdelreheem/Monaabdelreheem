@@ -30,10 +30,10 @@ Responsive design with Flexbox and Grid | DOM manipulation | React (Vite)
 **Back End:**     
 Node.js | Express.js | RESTful APIs | JSON Server (local development)
 
-**Database:**
+**Database:** 
 MongoDB | Mongoose
 
-**Tools & DevOps:**
+**Tools & DevOps:** 
 Git | GitHub | VS Code | Chrome DevTools | Nginx | PM2 | Postman | ESLint
 
 ---
